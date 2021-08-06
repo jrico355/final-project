@@ -77,18 +77,18 @@ video{
 .networks{
     float:right
 }
-.formcontainer {
+.container {
     border-radius: 5px;
     background-color: #f2f2f2;
     padding: 20px;
     width: 150px;
     height:auto;
     display: flex;
-    align-items: center;
     justify-content: center;
-  }
-  .form{
-    display: flexbox;  
     align-items: center;
-    margin-right: 100px;
   }
+  .mapouter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
